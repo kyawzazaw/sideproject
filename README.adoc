@@ -8,10 +8,10 @@ A short and informative description of your full-stack project. Explain what the
 
 List the programming languages, frameworks, libraries, and databases used in your project. Briefly explain why you chose these technologies.
 
-* Backend: [Backend Technology (e.g., Python, Django)]
-* Frontend: [Frontend Technology (e.g., Javascript, React)]
-* Database: [Database Technology (e.g., PostgreSQL)]
-* Other: [List any additional technologies]
+* Backend: Python + Django
+* Frontend: TypeScript + React
+* Database: PostgreSQL
+* Observability: Signoz
 
 == Getting Started
 
