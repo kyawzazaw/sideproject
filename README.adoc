@@ -12,6 +12,7 @@ List the programming languages, frameworks, libraries, and databases used in you
 * Frontend: TypeScript + React
 * Database: PostgreSQL
 * Observability: Signoz
+* CI/CD: GitHub Actions?
 
 == Getting Started
 
