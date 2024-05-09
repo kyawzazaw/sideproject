@@ -13,6 +13,7 @@ List the programming languages, frameworks, libraries, and databases used in you
 * Database: PostgreSQL
 * Observability: Signoz
 * CI/CD: GitHub Actions?
+* Hosting: AWS EC2
 
 == Getting Started
 
