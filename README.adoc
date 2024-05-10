@@ -14,6 +14,7 @@ List the programming languages, frameworks, libraries, and databases used in you
 * Observability: Signoz
 * CI/CD: GitHub Actions?
 * Hosting: AWS EC2
+* Other Tech: Docker
 
 == Getting Started
 
